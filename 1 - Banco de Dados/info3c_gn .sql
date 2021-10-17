@@ -44,7 +44,7 @@ CREATE TABLE `cad_usuario` (
 --
 
 INSERT INTO `cad_usuario` (`ID`, `usuario`, `senha`, `email`, `palavra_chave`) VALUES
-(1, 'gabriel80n', 'Estelar@10', 'gabrielnpmoraess@hotmail.com', 'Uberabinha');
+(1, 'gabrielnicholaspm', 'Ola@123', 'gabrielnpmoraess@hotmail.com', 'Uberabinha');
 
 -- --------------------------------------------------------
 
